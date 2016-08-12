@@ -1,0 +1,1 @@
+# cooccurence-truth-table
